@@ -1,0 +1,96 @@
+var list = [
+    {
+        "title": "Simplifying conference registration",
+        /*"title": "Simplifying Conference Registration",*/
+        "type": "How can we eliminate anxiety and minimise uncertainty in securing a conference ticket?",
+        "year": "2019",
+        "color": "#4FA7BF",
+        "colorlight": "#F0FCFF",
+        "active":"yes"
+    },
+    {
+        /*"title": "Expense reimbursement simplified",*/
+        "title": "Reimbursing expenses promptly",
+        "type": "How can we reduce complexity and effort in the claim process?",
+        "year": "2020",
+        "color": "#FFA372",
+        "colorlight": "#FFF5F0",
+        "active":"yes"
+    },
+    {
+        /*"title": "Discovering lifestyle amidst financial news",*/
+        "title": "Discovering lifestyle",
+        "type": "How can we enhance discoverability of lifestyle content on a business news platform?",
+        "year": "2016",
+        "color": "#0F9FA4",
+        "colorlight": "#E8F6F6",
+        "active":"yes"
+    },
+    {
+        /*"title": "Explaining budget with visual storytelling",*/
+        "title": "Explaining budget",
+        "type": "How can we better understand the Singapore budgeting process in 3 minutes?",
+        "year": "2017",
+        "color": "#f4c82f",
+        "colorlight": "#FFF9E2",
+        "active":"yes"
+    }/*,
+     {
+        "title": "The Business Times",
+        "type": "App",
+        "year": "2015",
+        "color": "#007bad"
+    },
+    {
+        "title": "Overseas Family School",
+        "type": "Website",
+        "year": "2017",
+        "color": "#283482"
+    },
+    {
+        "title": "Interactive News",
+        "type": "Website",
+        "year": "2017",
+        "color": "#1FB1C9"
+    },
+    {
+        "title": "The Missing Dolls",
+        "type": "Video",
+        "year": "2014",
+        "color": "#58191e"
+    },
+    {
+        "title": "Editorial Graphics",
+        "type": "Illustration",
+        "year": "2014-2017",
+        "color": "#aaa"
+    }*/
+]
+
+/* New
+    {
+        "title": "Simplifying event registration",
+        "problem": "How can we eliminate stress and minimise uncertainty in securing a conference ticket?",
+        "year": "2019",
+        "color": "#0F9FA4"
+    },
+    {
+        "title": "Simplifying expense reimbursement",
+        "problem": "How can we reduce complexity and effort in the claim process?",
+        "year": "2020",
+        "color": "#f4c82f"
+    },
+    {
+        "title": "Lifestyle at your fingertips",
+        "problem": "How can we enhance discoverability of lifestyle content in a business news website?",
+        "year": "2016",
+        "color": "#0F9FA4"
+    },
+    {
+        "title": "Budget explained",
+        "problem": "How can we better understand the Singapore budgeting process in 3 minutes?",
+        "year": "2017",
+        "color": "#f4c82f"
+    }
+
+    */
