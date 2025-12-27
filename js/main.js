@@ -432,7 +432,8 @@
                 $(".selected").find(".type").fadeOut();
 
                 var changeurl = _this.find(".title").html().replace(/\s+/g, '-').toLowerCase() + ".html";
-
+                window.location.href = changeurl;
+                return;
                 if(isMobile == false) { // Desktop
                     
                     $(videoID).removeClass("active-vid");
